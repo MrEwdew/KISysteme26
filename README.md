@@ -50,7 +50,7 @@ Material zur Vorlesung + Labor KI-Systeme an der HSO im SS26
 * [Exercises](./block_Linux/exercises.md)
 
 ### Linux Shell in Colab
-* [Open new Colab notebook](https://colab.research.google.com/)
+* [Open new Colab notebook](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_Linux/linux.ipynb)
 ![](./block_Linux/01_Working_with_the_Linux_Shell/images/Colab_Shell.png)
 
 ## NotebookLM
