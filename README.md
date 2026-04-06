@@ -57,5 +57,14 @@ Material zur Vorlesung + Labor KI-Systeme an der HSO im SS26
 * [Chat with all soruces + quiz + slides](https://notebooklm.google.com/notebook/264f30cd-e1dc-44a9-a4df-42fd22ba80a7)
 
 </details>
+
+<details>
+<summary> <H2> Block 3 - Hadoop </H2><BR></summary>
+
+### Labor
+* [MR Joblib](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_3/Assignment_MRJOBLIB.ipynb)
+
+
+</details>
  
 </details>
